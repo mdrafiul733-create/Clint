@@ -1,224 +1,225 @@
 #EXTM3U
+Make By MD.Rafiul Isalm Talukder
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png" group-title="Toffee",Bijoy TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Bijoy TV ( Tech Pro )
 https://tv5.genatuz070.workers.dev/cdn/live/bijoytv/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=89941740287945304939948563570410~hmac=8d5b48b8a441e5669525042953c9e00df157629709064e0c49441b51379ebbf3
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ny61-JQBv9knK3AHgzZ7/posters/0909b36a-afd5-426a-93b3-4512800977db.webp" group-title="Toffee",Animal Planet
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Animal Planet ( Tech Pro )
 https://tv4.udiqipuw544.workers.dev/cdn/live/animal_planet_sd/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=65334839608903536336263655202466~hmac=8876a3aedab5c5805fcdcc06736d1ad269b6930e8a9db38cedaf8742f5e53597
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ni61-JQBv9knK3AHcDYc/posters/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp" group-title="Toffee",Animal Planet HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Animal Planet HD ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/animal_planet_hd/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=58562043110886806702723748880742~hmac=6b22e7717958d1b4758dfbcbca31e2966ef017dbf53afa91827ead7f49735ef6
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="Toffee",Discovery
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Discovery ( Tech Pro )
 https://tv5.genatuz070.workers.dev/cdn/live/discovery_sd/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=71197808058508246756878207814091~hmac=5c538913255609e802bb5941ad0ef620f82bfdfbbf7b0d65da3ee6d06d180528
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/KC6x-JQBv9knK3AHqjYc/posters/55e554f1-dbbb-47bd-97fe-fca878726c4c.webp" group-title="Toffee",Discovery HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Discovery HD ( Tech Pro )
 https://tv4.udiqipuw544.workers.dev/cdn/live/discovery_hd/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=59032889957313193258571359021782~hmac=6d7028722904dfb8fc302bca9325c1079fc5e7ed390a2ece838db05384232772
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ay6s-JQBv9knK3AHJTY1/posters/e8f65578-e82d-4e4a-a1ff-073becc5bd71.webp" group-title="Toffee",Discovery Turbo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Discovery Turbo ( Tech Pro )
 https://tv4.udiqipuw544.workers.dev/cdn/live/discovery_turbo/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=25467212320023378147258516670302~hmac=75bfd8892f55edbf9018cc32ac32199cfcc9bbd3610c1528a69407d00d3ac79c
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DK8dd5YBrjBfS2_Ru22e/posters/a4e57fd0-1853-4540-a9bc-0265ee43b5cb.png" group-title="Toffee",Zing
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Zing ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/zing_sd/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=96554967742404731367135302002001~hmac=c9af11460a29e7440bf5981e609cff024323c6c16bfcd41a2d25df0c639a0ffa
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DYMI_58BJIOHmUelm3aK/posters/d8436322-804a-47b6-9a3f-62764c4622d5.png" group-title="Toffee",CGTN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",CGTN ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/cgtn/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=53751097036953838777386324081937~hmac=5564cb9abb08cad03e5485a9214a2667b9a4a5439b6ab8e80a1dee93e905e39d
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/rYOv_p8BJIOHmUelrnXh/posters/d537453f-7e5b-45f3-9b52-42f6f65950c8.png" group-title="Toffee",Channel News Asia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Channel News Asia ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/channels_news_asia/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=35177668928778711327720891782734~hmac=74c56b3a25f8ef0ec093223ba55aa4077c98eb7e0f28c29f7e09958677a9b8e3
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp" group-title="Toffee",CNN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",CNN ( Tech Pro )
 https://tv4.udiqipuw544.workers.dev/cdn/live/cnn/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=03126138474500300346103401162411~hmac=780a4556a9754e8eef00089e5928e0cdd5efedbc12a94606f8b5393868037c1a
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/7oPt_p8BJIOHmUelhXWj/posters/d6328092-9437-4806-8dc7-d00732d56832.png" group-title="Toffee",DW
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",DW ( Tech Pro )
 https://tv4.udiqipuw544.workers.dev/cdn/live/dw_tv/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=13865660689283005130647749539136~hmac=2393585da600029f15ed9245aaa16bf6809318bc416709d69bcd0e0bb4319d62
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/G4ML_58BJIOHmUelNXZr/posters/becc2fba-4ed5-4f43-af2d-3c1ea2b4ee57.png" group-title="Toffee",France 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",France 24 ( Tech Pro )
 https://tv5.genatuz070.workers.dev/cdn/live/france_24/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=46162274500330405870223443262917~hmac=73776cb4daf33a740b6c9223d8a62b7fd16bbccdc88861cdc4272c4d6d7b25b7
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/ay7uX5UBv9knK3AHs6TI/posters/deb3c186-b2e1-4a91-aafb-d86f9128b851.png" group-title="Toffee",Investigation Discovery HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Investigation Discovery HD ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/discovary_investigation_hd/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=90007697731721844059169082288140~hmac=46674eae944b2d16692037a848327563c1396e6d83a5d96e0a6c6008193302d1
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/CNT2_p8BalKyvLQIBSUG/posters/1e937055-a014-4274-bb69-b1b56d18c434.png" group-title="Toffee",Russia Today
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Russia Today ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/russia_today/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=81334824488897991781614564203403~hmac=1c1b8af91ac9b5c487edee00cad7539c6da276ba0ee977ed9b7198841cb96776
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/FdT9_p8BalKyvLQIpCUP/posters/6b39f2c6-6fe8-4720-a986-379e09968b5b.png" group-title="Toffee",Saudi Quran
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Saudi Quran ( Tech Pro )
 https://tv5.genatuz070.workers.dev/cdn/live/saudi_quran/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=30519774990065826528661410805189~hmac=ce2b75cd276a8a9db04efb0c2c08edd75f6e3cd76e600f402c02cf77556efab0
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/JNQA_58BalKyvLQIhiVD/posters/11e764bf-7969-4dcb-a94c-937a3bde2a7f.png" group-title="Toffee",Saudi Sunnah
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Saudi Sunnah ( Tech Pro )
 https://tv4.udiqipuw544.workers.dev/cdn/live/saudi_sunnah/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=51907280072017730231087747196327~hmac=e4dcc32e86df0087b740915575b3e52840db88aa9a8f1870059bfc1532d0a73b
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/1YPq_p8BJIOHmUelSHXc/posters/f65b0273-0f23-4b56-93dd-417224369105.png" group-title="Toffee",TRT World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",TRT World ( Tech Pro )
 https://tv5.genatuz070.workers.dev/cdn/live/trt_world/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=26758724296175945478867228092647~hmac=de5d598a18f5c80fed41017d4e22463dcd99d768d6810d565bc6b2e2e431239b
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/5cwRnZUBtpl-Sbt7wWrN/posters/5779ade3-e9ba-4107-b3da-bae6f891500a.png" group-title="Toffee",&TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",&TV HD ( Tech Pro )
 https://tv5.genatuz070.workers.dev/cdn/live/and_tv_hd/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=45296498767316158081034658959582~hmac=6980890f08a5a8e6bef5242e26b9731223a222ca216e85cc5c16d6baf3a7022a
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/0C63X5UBv9knK3AHxaOs/posters/6dce1143-1045-4fec-ac4f-86d2bfb32447.png" group-title="Toffee",HUM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",HUM ( Tech Pro )
 https://tv4.udiqipuw544.workers.dev/cdn/live/hum_tv/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=57679149627299823798813834598263~hmac=4c798dc1b0b5d4fef6499269d5638535693d0d3aafc161d88c95f9d29eba7799
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/T9O9X5UBm1RY_In7UXFv/posters/30e0f372-eb3e-4cf9-be1e-b196a40c2fc7.png" group-title="Toffee",HUM Masala
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",HUM Masala ( Tech Pro )
 https://tv5.genatuz070.workers.dev/cdn/live/hum_masala/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=76312200671396034349118489592382~hmac=36f13d607728115a65f256751bb12eb050a30a03cb070d97d81da45f3f78602d
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/WtPBX5UBm1RY_In7mXEU/posters/188d51f6-aeef-41ed-835b-e25ff911e209.png" group-title="Toffee",HUM Sitaray
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",HUM Sitaray ( Tech Pro )
 https://tv4.udiqipuw544.workers.dev/cdn/live/hum_sitaray/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=11421828059689409843510193162656~hmac=c96b424a17c3c8dc7022245000a72455d4b6c0c26f13f1050fcd6a2e66174761
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png" group-title="Toffee",Sony Aath
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Sony Aath ( Tech Pro )
 https://tv5.genatuz070.workers.dev/cdn/live/sonyaath/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=54653317595610548409976931225981~hmac=77ce6358afcbaf7b8732852459ec55fa19475682f6375c47353cfbb590668f34
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/7x0Jd5YBEef-9-uVv_Gy/posters/f9c07bfc-9fde-40d0-91a1-e28c5840f400.png" group-title="Toffee",Zee Anmol
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Zee Anmol ( Tech Pro )
 https://tv5.genatuz070.workers.dev/cdn/live/zee_anmol/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=99867699317649241007028024647151~hmac=1b282947f937fe48cbe7c6b618c56dc8c22da1b2b96de556a5ba69f7a927b217
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="Toffee",Zee Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Zee Bangla ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/zee_bangla/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=59405689425707324524242824764349~hmac=7fae2a16764ab7c6f682c3b1d82fbde8e21d4d088d26d0fd5af1b339ddca7078
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/ltPQX5UBm1RY_In7b3F1/posters/d039d9df-9877-4969-a0b6-56888ebe2385.png" group-title="Toffee",Zee TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Zee TV HD ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/zee_tv_hd/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=31568245232883721222976834348951~hmac=21580b4fd3d464222e22ad566ed45e1c1b5724e13be0927e1fdbf3ae5a12d94d
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/MC6C-JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp" group-title="Toffee",Sony BBC Earth HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Sony BBC Earth HD ( Tech Pro )
 https://tv4.udiqipuw544.workers.dev/cdn/live/sonybbc_earth_hd/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=44803414669942447133135297196160~hmac=e2128e47729f30ec091e8c50a58ecd2d3c73e0eaca77e81be75512bf90654e21
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp" group-title="Toffee",Sony Entertainment Television
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Sony Entertainment Television ( Tech Pro )
 https://tv5.genatuz070.workers.dev/cdn/live/sony_entertainment/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=35154557514888879106576403985070~hmac=84e979a33ac908d25de1aae0362530db16016d69241f4836739f00051e6fce10
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp" group-title="Toffee",Sony Entertainment Television HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Sony Entertainment Television HD ( Tech Pro )
 https://tv4.udiqipuw544.workers.dev/cdn/live/sonyentertainmnt_hd/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=86477598837349109005794525413483~hmac=db0ffc4a368b08fe8bbf12c717f3bdf65b87bed0a4f122fe861f54a840b6a463
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp" group-title="Toffee",Sony SAB HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Sony SAB HD ( Tech Pro )
 https://tv4.udiqipuw544.workers.dev/cdn/live/sonysab_hd/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=04276003053712291333719739164004~hmac=83c09773d33ab3da9f156b33fa748fff0628d99dfb755c6f0ac04d13233cb194
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp" group-title="Toffee",Sony YAY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Sony YAY ( Tech Pro )
 https://tv4.udiqipuw544.workers.dev/cdn/live/sonyyay/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=32991387674158325559559580309799~hmac=47244da1d4f15cb49d1fafb22a4835b15910e01002b97d5e6c1f5f4e7f8cd19b
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Toffee",Toffee TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Toffee TV ( Tech Pro )
 https://tv5.genatuz070.workers.dev/cdn/live/toffee_drama/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=98399264397630521499680187019198~hmac=2393da5494f204d56cdcb06917720810c2cd7a24fdd763d6a770d622c02bee93
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/7C6j-JQBv9knK3AHVzUA/posters/e8f84105-5efe-4e91-a0d4-18a0849cf2f2.webp" group-title="Toffee",TLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",TLC ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/tlc_sd/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=29487946729484008872912212708843~hmac=a27fec9197e5c6cf571a3c85b9720644cfb12ccee03ca88cd20b72d061e5ce9c
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/7S6j-JQBv9knK3AHbzXC/posters/0973097c-bc5c-4b28-aaca-f04d6f6cb5e2.webp" group-title="Toffee",TLC HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",TLC HD ( Tech Pro )
 https://tv4.udiqipuw544.workers.dev/cdn/live/tlc_hd/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=68957052877934887202041763491158~hmac=1836f7732f6090f6073b56f7eaf1edef062accec1a7ef80bc7860c033911bb97
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/wCM3l5sBEef-9-uVXFvD/posters/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png" group-title="Toffee",Ananda TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Ananda TV ( Tech Pro )
 https://tv4.udiqipuw544.workers.dev/cdn/live/anandatv/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=34946732318036081513585714941567~hmac=07c00d27d488cdb5e0b6e07ede07995258190af4e2590aa5c47d71e3ddaf9212
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/MyK__poBEef-9-uVmf5l/posters/1eadef5b-28e7-4dc2-b42f-c67a3357c9a0.png" group-title="Toffee",Asian TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Asian TV ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/asian_tv/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=75786823737951074623753678317240~hmac=f695fa3fff7af93db4d17f9ad481ee64098760a566ba510c12d956a422248593
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png" group-title="Toffee",Bangla TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Bangla TV ( Tech Pro )
 https://tv4.udiqipuw544.workers.dev/cdn/live/bangla_tv/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=67860474994533892102252518253889~hmac=7c8dab3c4ccf0247cfce8e6cd2d741d8afe7b61c39bdacc4f0afd148dc412613
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png" group-title="Toffee",Channel i
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Channel i ( Tech Pro )
 https://tv4.udiqipuw544.workers.dev/cdn/live/channel_i/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=36790089120611939142669964703441~hmac=4f67b3c397df2f2c1fb277aef2fe4d082548bf5c9d09cde8a9de50d66d29e180
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/WyPuDJsBEef-9-uVUA_z/posters/ea20055c-a824-443c-8083-ce8e2da8b922.png" group-title="Toffee",Channel S
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Channel S ( Tech Pro )
 https://tv4.udiqipuw544.workers.dev/cdn/live/channel_s_tv/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=08329977140669613166607486435151~hmac=1f4fbc19c563c5d546ada7f5b50a4b18b82ba971aa2ad86a99a907e9a5a5cede
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png" group-title="Toffee",Desh TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Desh TV ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/desh_tv/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=82667682217953481062421000755942~hmac=055f595e1d8934136b6939baeb2a3135466d73ce04ca09a144ed193dd840a602
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/PS_La5oBNnOkwJLWLRN_/posters/e8c444fd-ee3b-4bf3-bb0a-f969bc295f82.png" group-title="Toffee",Ekattor TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Ekattor TV ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/ekattor_tv/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=42730410791656561499817432073254~hmac=32c71e518584c217dfc884203d2c252f585a1f02eb42390d3a4a1f657a509be9
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/o3v235oBcqxnFHJBkAdC/posters/159af631-796d-4342-a2a7-c272f32bcd32.png" group-title="Toffee",Ekhon TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Ekhon TV ( Tech Pro )
 https://tv5.genatuz070.workers.dev/cdn/live/ekhon_tv/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=54124058250848538614531533590457~hmac=4fcf186357e651c759a851a85c619786b39a44e0d84ab8629f42f50b637c02fd
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png" group-title="Toffee",Global TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Global TV ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/globaltv/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=27561579073287878993867087563259~hmac=bb6ebdae2ccdc45224e18f9248f49ff5217cd5a7f0e38aa612f5ce71c008fd3b
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/ES_cZZsBNnOkwJLW1Oz1/posters/b872b8f5-cb6b-45a1-a1cd-7609df51d614.png" group-title="Toffee",Independent TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Independent TV ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/independent_tv/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=63045060655864183271386786872729~hmac=2b7360228d4e7e20a7925598257359ae52ac3febe5dcd9338a434386c3b54df7
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/jehEA54BIxFjn23xAmdw/posters/2c276556-cbcd-4467-b627-4394bb20f250.png" group-title="Toffee",Islamic TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Islamic TV ( Tech Pro )
 https://tv4.udiqipuw544.workers.dev/cdn/live/islamic_tv/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=68153062738595643178173126988239~hmac=9a9956619587ee08128dfda05b2b6f57ec25a24dcd59c1b5cc60645d60a709da
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png" group-title="Toffee",Jamuna TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Jamuna TV ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/jamuna_tv/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=28506665119777149810594859013433~hmac=354a1d7252d6e0ec3512695cd812471d4943132e89121b4a68f24d3a5e3f2657
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/-Xz3PJwBcqxnFHJBDAlE/posters/fecea361-8b60-4aeb-a530-6e27eee8178a.png" group-title="Toffee",Mohona TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Mohona TV ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/mohona_tv/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=08130609624380541423236806992723~hmac=60c47a76a0be3ab4cbe213d8ce7429d3a4980f4893564045333082c40f93948f
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/CXz4PJwBcqxnFHJBPwrG/posters/2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.png" group-title="Toffee",Movie Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Movie Bangla ( Tech Pro )
 https://tv5.genatuz070.workers.dev/cdn/live/movie_bangla/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=55308910411478010343988597978163~hmac=2588d24411d2392abf69be4f40a168c63e35cef7e5479ea5be57a3af85db93fd
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/FHz5PJwBcqxnFHJBdAqW/posters/419869ac-8ddf-4909-86c1-b69f0a3adf13.png" group-title="Toffee",Nexus TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Nexus TV ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/nexus_tv/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=36348919318953501603458566319926~hmac=0cc0f6716131741f73fb6b11af1c79704e7c162eddc4468ef7abc0856c9e890f
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/wHLVIJ4B7a1HdMSjaGLJ/posters/83b89557-3ae8-4ca8-8c5d-3c617359c738.png" group-title="Toffee",NTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",NTV ( Tech Pro )
 https://tv5.genatuz070.workers.dev/cdn/live/n_tv/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=53058787079811170595501972720456~hmac=49f9b18b2297a6e87a916fb90f9fd144eed415f1952c12c93add060bc7fe6052
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/KECGB54BuUSiBsg_dHyj/posters/58af9c58-ed80-458c-af13-cf381680cec6.png" group-title="Toffee",Rajdhani TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Rajdhani TV ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/rajdhani_tv/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=62113119305626834889745935893752~hmac=5e9adfbfb74ac90de2f8269c59cdd5f7b841509cf9df34b806a20d88824626be
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Toffee",Somoy TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Somoy TV ( Tech Pro )
 https://tv5.genatuz070.workers.dev/cdn/live/somoy_tv/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=53763524064951936408352709018723~hmac=ba59e865f2c3abb15c1105257663288779ad0d2d87f5cdffc8d5c81d256144bb
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/QMwWnZUBtpl-Sbt7S2sx/posters/8cad9a82-842a-47bf-a060-f17011f11c07.png" group-title="Toffee",& Pictures HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",& Pictures HD ( Tech Pro )
 https://tv5.genatuz070.workers.dev/cdn/live/andpicture_hd/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=27118620178985583751634969233458~hmac=e8b7f86a0d944fd3b7bf83ced88f33910e8cded474e29e21052eb0dda9475e30
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/PC6F-JQBv9knK3AHlTUO/posters/fb0243ba-39a0-4101-a78c-c197be550c6c.webp" group-title="Toffee",B4U Movies APAC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",B4U Movies APAC ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/b4u_movies/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=11954467418077514389584591522542~hmac=24b35a0076cf463a6c2b924eb46d0a4ab9df05ffdcb930a53754d9ad48e63805
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp" group-title="Toffee",Sony MAX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Sony MAX ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/sony_max/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=76560369029044129479011122132947~hmac=3159af4914de10d8cecd8bae364736783c23b8881e5679d35ee392e68eabc838
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ii5_-JQBv9knK3AHLDV3/posters/d961cc87-81b6-4b30-8414-8c0af2774818.webp" group-title="Toffee",Sony MAX 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Sony MAX 2 ( Tech Pro )
 https://tv5.genatuz070.workers.dev/cdn/live/sonymax_2/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=38008159508174009613620336289207~hmac=9ef0f5248522be69564900e9048517ce0f41e7ef73019c147df55023ae881175
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Toffee",Sony MAX HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Sony MAX HD ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/sony_max_hd/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=84414044314264511048624207312780~hmac=636d63a82fe0f2a2343bbc3c73cd64697d0e4d0400e4a34ea68186ec018f20bf
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Toffee",Sony PIX HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Sony PIX HD ( Tech Pro )
 https://tv4.udiqipuw544.workers.dev/cdn/live/sonypix_hd/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=84903809840182956881165156343190~hmac=6c5baa230f462198b3b61fcd341ddbfd29f3ac9ab77967b820c1134ddce2c55a
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png" group-title="Toffee",Toffee Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Toffee Movies ( Tech Pro )
 https://tv4.udiqipuw544.workers.dev/cdn/live/toffee_movie/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=90839416471829138544151224674311~hmac=5aa9813bfb7cfe11d0867e05576e9fb562fef9bcd6f3dab7da3dc42794d8602b
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Pc3RD5YBtpl-Sbt7doxr/posters/33d667ae-bcc3-4f6b-b376-76c552136923.png" group-title="Toffee",Zee Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Zee Action ( Tech Pro )
 https://tv5.genatuz070.workers.dev/cdn/live/zee_action/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=40474032700152847160020395325093~hmac=976c7b01fc37eb6334091cf379e5f333347d024fba00b7ad0ce74223a8e7321b
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/-C7MX5UBv9knK3AHdKOi/posters/e37fef13-9bf3-4ecc-8b74-fca091874fa0.png" group-title="Toffee",Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Zee Bangla Cinema ( Tech Pro )
 https://tv5.genatuz070.workers.dev/cdn/live/zee_bangla_cinema/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=59259218248488230374088740534645~hmac=20b2a25f1ae1d8f3d07334582f57a9a3d2acd12478a43e3d0532816f90ebfb4d
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/OnSlPJYBcqxnFHJB6lFX/posters/d9ccb2a6-227f-4a41-8714-efaddab5cf5e.png" group-title="Toffee",Zee Bollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Zee Bollywood ( Tech Pro )
 https://tv5.genatuz070.workers.dev/cdn/live/zee_bollywood/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=86437990654478637027639260195555~hmac=9a3711b3652c3ec22debbc54233b0bd39dc2dfb7b645b110661cd73f855cbd67
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/U3QEd5YBcqxnFHJBpYzc/posters/8bc7ae1b-1a46-4b76-bdb1-13c7dbd3a95c.png" group-title="Toffee",Zee Cafe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Zee Cafe ( Tech Pro )
 https://tv4.udiqipuw544.workers.dev/cdn/live/zee_cafe_hd/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=56635119157324401513106614595043~hmac=7fb6f1e8039b05987ded60e76a77843a2376303f21476b2aa2da8309f8551663
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/5y7HX5UBv9knK3AHs6Nk/posters/7582fb79-c15f-4247-ba5b-1d2dd27f3d71.png" group-title="Toffee",Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Zee Cinema HD ( Tech Pro )
 https://tv4.udiqipuw544.workers.dev/cdn/live/zee_cinema_hd/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=21602043890649136636067851587000~hmac=cffd5f0d34cd33180e46fee859ead008fb31b4de30fad728e4f961ec14140233
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/PS6F-JQBv9knK3AHqjVz/posters/0f83ee72-be0f-4861-94df-30b158d3df8d.webp" group-title="Toffee",B4U Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",B4U Music ( Tech Pro )
 https://tv5.genatuz070.workers.dev/cdn/live/b4u_music/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=50864611006392836913682757084219~hmac=3475b3d7cde4544662b2c0461be902358a42904cf6a279bb9a47121edac290f7
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/AS6s-JQBv9knK3AHDTZb/posters/eab8fd0f-9351-464c-b45e-332f38b49f4b.webp" group-title="Toffee",Discovery Science
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Discovery Science ( Tech Pro )
 https://tv4.udiqipuw544.workers.dev/cdn/live/discovery_science/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=16588186608766791816767582320302~hmac=2782f78e9827dbd334ca9055cfa90e779de182d65e34b86d04873a735c3c0a70
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="Toffee",Sony Ten Cricket
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Sony Ten Cricket ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/ten_cricket/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=24543940689414823215178989164321~hmac=ba92b900c4ed2e38ea0f0eeb17a62100760b9c97cbfe4a32f39bed0bcfc5f241
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp" group-title="Toffee",Sony Ten Sports 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Sony Ten Sports 1 HD ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/sony_sports_1_hd/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=36341231862422088034166682124650~hmac=fc087a37ad6983232e72aa2cd148edcfc6894d7935b47386f13ca4cb0c769702
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png" group-title="Toffee",Sony Ten Sports 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Sony Ten Sports 2 HD ( Tech Pro )
 https://tv5.genatuz070.workers.dev/cdn/live/sony_sports_2_hd/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=60057999568758609223314098185972~hmac=ac00412e1179f68bd407f260745b801baf301545b9684ff013dc78c462412469
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png" group-title="Toffee",Sony Ten Sports 5 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Sony Ten Sports 5 HD ( Tech Pro )
 https://tv5.genatuz070.workers.dev/cdn/live/sony_sports_5_hd/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=51426391328741639167146832021980~hmac=1012d2aa6d8a55557a8274216bf61852e490e971c40be439b74857a9185ac35e
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png" group-title="Toffee",WC Match Recap
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",WC Match Recap ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/fifa_world_cup/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=77661167151034453161676153878379~hmac=83ebd56b6db25967c7c62d4b3cc88b5ac3e197c30aca3a28f705e6fa068edf71
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/mC6W-JQBv9knK3AHfDWA/posters/d2a02d82-fde4-4769-a6d9-95c0560e2120.webp" group-title="Toffee",Cartoon Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Cartoon Network ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/cartoon_network_sd/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=53784121607824627426105799073885~hmac=337da5da76b71b27ce8ab0ae3a41f04cc210965f1d5d6b17ce262dc9f4a61ae4
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp" group-title="Toffee",Cartoon Network HD +
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Cartoon Network HD + ( Tech Pro )
 https://tv4.udiqipuw544.workers.dev/cdn/live/cartoon_network_hd/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=82649156794636735879345715947363~hmac=31ab35b4e54a90376f7df8b36148d9f453e9c4bb5002a773c32c32bd037a20bd
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/1i6e-JQBv9knK3AHHTXR/posters/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp" group-title="Toffee",Discovery Kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",Discovery Kids ( Tech Pro )
 https://tv8.akashgo.workers.dev/cdn/live/discovery_kids/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=33648873394886558609939933592349~hmac=642b41a3cbbe8cbf719ec53d5f06b4adc624f03711a649e79805b9fb1b536f1f
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/ny6W-JQBv9knK3AHujXC/posters/7e7c2afe-a663-4c09-983a-2d0fa0f1ca9a.webp" group-title="Toffee",POGO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Tech Pro",POGO ( Tech Pro )
 https://tv5.genatuz070.workers.dev/cdn/live/pogo_sd/playlist.m3u8?hdnea=exp=1789582791~acl=/*~id=14995136079016884291362973861899~hmac=7801fe5506c63c3ff7f241aae2d9983b6dede0563fa4434a7c4b11c48e851109
 
